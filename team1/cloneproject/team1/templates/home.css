@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'ChosunSg';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@1.0/ChosunSg.woff') format('woff');
+    font-family: 'HangultuelGothic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_ten@1.10/HangultuelGothic.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -18,16 +18,16 @@
 }
 
 main {
-    font-family: 'ChosunSg';
+    font-family: 'HangultuelGothic';
 }
 
 p {
-    font-family: 'ChosunSg';
+    font-family: 'HangultuelGothic';
     font-size: 13px;
 }
 
 .category {
-    font-family: 'ChosunSg';
+    font-family: 'HangultuelGothic';
     font-size: 18px;
     text-align: center;
     margin: 40px;
@@ -44,7 +44,7 @@ p {
 }
 
 .box1 {
-    font-family: 'ChosunSg';
+    font-family: 'HangultuelGothic';
     font-size: 12px;
     line-height: 20px;
     color: #000000;
@@ -60,7 +60,7 @@ p {
 }
 
 .box0 {
-    font-family: 'ChosunSg';
+    font-family: 'HangultuelGothic';
     font-size: 12px;
     line-height: 20px;
     color: #000000;
@@ -77,7 +77,7 @@ p {
 }
 
 .box2, .box3, .box4 {
-    font-family: 'ChosunSg';
+    font-family: 'HangultuelGothic';
     font-size: 12px;
     line-height: 20px;
     color: #000000;
