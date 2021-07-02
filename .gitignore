@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/venv,python,database,django
-# Edit at https://www.toptal.com/developers/gitignore?templates=venv,python,database,django
+# Created by https://www.toptal.com/developers/gitignore/api/venv,python,database,django,macos
+# Edit at https://www.toptal.com/developers/gitignore?templates=venv,python,database,django,macos
 
 ### Database ###
 *.accdb
@@ -158,6 +158,35 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 
@@ -234,4 +263,4 @@ cython_debug/
 pyvenv.cfg
 pip-selfcheck.json
 
-# End of https://www.toptal.com/developers/gitignore/api/venv,python,database,django
+# End of https://www.toptal.com/developers/gitignore/api/venv,python,database,django,macos
