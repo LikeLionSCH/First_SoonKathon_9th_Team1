@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %} 상품 수정 페이지 {% endblock %}
+{% block content %}
+    <h1>상품 수정하기</h1>
+
+    <form action ="{% url 'update' edit.id %}" method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        <p>상품명 : <input type="text" name="name" value="{{team1.name}}"></p>
+        <p>가격 : <input type="text" name="price" value="{{team1.price}}"></p>
+        <p>할인가격 : <input type="text" name="sale_price" value="{{team1.sale_price}}"></p>
+        <p>할인기간 : <input type="text" name="sale_period" value="{{team1.sale_period}}"></p>
+        <p>색상 : <input type="text" name="color" value="{{team1.color}}"></p>
+        <button type="submit">submit</button>
+        </form>
+{% endblock %}

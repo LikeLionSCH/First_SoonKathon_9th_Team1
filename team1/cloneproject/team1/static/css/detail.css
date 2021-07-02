@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'HangultuelGothic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_ten@1.10/HangultuelGothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.detail_container {
+    display: flex;
+    flex-direction: row;
+}
+
+.detail_img_container {
+    width: 30%;
+}
+
+.detail_information_container {
+    width: 50%;
+    font-family: 'HangultuelGothic';
+}
+
+
