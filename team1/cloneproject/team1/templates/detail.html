@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %} 상품 상세 페이지 {% endblock %}
+{% block content %}
+<div class = detail_container>
+    <div class = detail_img_container>
+        <p><img src = "{{team1.image.url }}" width="200" height="200" alt="안나와요" /></p>
+        <a href = "{%url 'edit' team1.id%}" ><input type = "button" value= "수정하기"></a>
+        <a href = "{%url 'delete' team1.id%}" ><input type = "button" value= "삭제하기"></a>
+    </div>
+    <div class = detail_information_container>
+        <p>{{team1:name}}</p>
+        <br>
+        <p>판매가      {{team1:price}}</p>
+        <br>
+        <p>할인판매가  {{team1:sale_price}}</p>
+        <br>
+        <p>할인 기간   {{team1:sale_period}}</p>
+        <br>
+        <br>
+        <br>
+        <p>color       {{team1:color}}</p>
+        <br>
+        <p>{{team1:name}} {{team1:color}} </p>
+        <p>수량       {{team1:number}}</p>
+        <br>
+        <br>
+        <p>총 상품금액(수량): {{team1:sale_price * team1:number}}</p>
+        <br>
+        <button name = "구매하기">지금 구매하기</button>
+        <button name = "장바구니">장바구니 담기</button>
+        <button name = "좋아요"><img src="suit-heart.svg" alt="x"></button>
+    </div>
+</div>
+</html>
