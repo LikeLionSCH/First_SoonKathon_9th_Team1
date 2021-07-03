@@ -3,9 +3,9 @@
 
 ## 👩‍👩‍👧 팀소개 👩‍👩‍👧
 🦁멋쟁이사자처럼 순카톤 1조🦁  
-*정은서 : Full-stack  
-*최연희 : Full-stack  
-*윤현지 : Full-stack  
+* 정은서 : Full-stack  
+* 최연희 : Full-stack  
+* 윤현지 : Full-stack  
 
 ### 데모 IMG
 <img width="1680" alt="KakaoTalk_20210703_011425305_01" src="https://user-images.githubusercontent.com/79982109/124347677-d117e380-dc20-11eb-96b1-259f7836a1b7.png">
