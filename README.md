@@ -12,20 +12,20 @@
 <img width="1680" alt="KakaoTalk_20210703_011425305_02" src="https://user-images.githubusercontent.com/79982109/124347720-f9074700-dc20-11eb-9fc1-2fc849d5434a.png">
 <img width="1680" alt="KakaoTalk_20210703_011425305_04" src="https://user-images.githubusercontent.com/79982109/124347922-fbb66c00-dc21-11eb-8f13-f7b0411d0605.png">
 
-### 📄 프로젝트 기간
+## 📄 프로젝트 기간
 2021.07.02 PM 7:00 ~ 2021.07.03 AM 1:00 
 
-### 😊 프로젝트 내용
+## 😊 프로젝트 내용
 - 멋쟁이사자처럼 9기 순카톤 1회
 - 사용하고 있는 옷 사이트 클론코딩
 - 클론 사이트 주소 🥼👖 [https://ba-on.com/](URL) 
 
-### 💻사용한 기술 스택 및 패키지💻
+## 💻사용한 기술 스택 및 패키지💻
 - HTML
 - CSS
 - Django
 
-### 😀 서버 실행법
+## 😀 서버 실행법
 1. 가상환경 생성 및 실행
 2. Django, python, pillow 설치
 3. 모델 등록
