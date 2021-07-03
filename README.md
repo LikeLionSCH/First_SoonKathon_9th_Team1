@@ -7,7 +7,7 @@
 * 최연희 : Full-stack - 컴퓨터공학과 19학번
 * 윤현지 : Full-stack - 컴퓨터소프트웨어공학과 21학번
 
-### <u>🥰 데모 IMG</u>
+## 🥰 데모 IMG
 <img width="1680" alt="KakaoTalk_20210703_011425305_01" src="https://user-images.githubusercontent.com/79982109/124347677-d117e380-dc20-11eb-96b1-259f7836a1b7.png">
 <img width="1680" alt="KakaoTalk_20210703_011425305_02" src="https://user-images.githubusercontent.com/79982109/124347720-f9074700-dc20-11eb-9fc1-2fc849d5434a.png">
 <img width="1680" alt="KakaoTalk_20210703_011425305_04" src="https://user-images.githubusercontent.com/79982109/124347922-fbb66c00-dc21-11eb-8f13-f7b0411d0605.png">
