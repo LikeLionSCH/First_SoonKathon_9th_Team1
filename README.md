@@ -27,12 +27,25 @@
 
 ## 😀 서버 실행법
 1. 가상환경 생성 및 실행
+* python -m venv <가상환경 이름>
+* Windows . <가상환경 이름>/scripts/activate
+* Mac . <가상환경 이름>/bin/activate
+
 2. Django, python, pillow 설치
+* pip install django==2.1.1
+* pip install pillow
+* pip install django-mathfilters
+ 
 3. 모델 등록
+* python manage.py makemigrations
+* python manage.py migrate
+
 4. Superuser 생성
+* python manage.py createsuperuser
+
 5. 서버 실행
 
-### 기능구현 체크리스트
+### 📃 기능구현 체크리스트
 
 ### 상품 create
 - [x] 상품명
