@@ -3,25 +3,29 @@
 
 ## 👩‍👩‍👧 팀소개 👩‍👩‍👧
 🦁멋쟁이사자처럼 순카톤 1조🦁  
-* 정은서 : Full-stack  
-* 최연희 : Full-stack  
-* 윤현지 : Full-stack  
+* 정은서 : Full-stack - 빅데이터공학과 18학번
+* 최연희 : Full-stack - 컴퓨터공학과 19학번
+* 윤현지 : Full-stack - 컴퓨터소프트웨어공학과 21학번
 
 ### 데모 IMG
 <img width="1680" alt="KakaoTalk_20210703_011425305_01" src="https://user-images.githubusercontent.com/79982109/124347677-d117e380-dc20-11eb-96b1-259f7836a1b7.png">
 <img width="1680" alt="KakaoTalk_20210703_011425305_02" src="https://user-images.githubusercontent.com/79982109/124347720-f9074700-dc20-11eb-9fc1-2fc849d5434a.png">
+<img width="1680" alt="KakaoTalk_20210703_011425305_04" src="https://user-images.githubusercontent.com/79982109/124347922-fbb66c00-dc21-11eb-8f13-f7b0411d0605.png">
 
 ### 📄 프로젝트 기간
 2021.07.02 PM 7:00 ~ 2021.07.03 AM 1:00 
 
-### 프로젝트 내용
+### 😊 프로젝트 내용
 - 멋쟁이사자처럼 9기 순카톤 1회
+- 사용하고 있는 옷 사이트 클론코딩
+- 클론 사이트 주소[https://ba-on.com/](URL) 
 
-### 💻사용한 기술 스택 및 패키지
-- HTML / CSS
+### 💻사용한 기술 스택 및 패키지💻
+- HTML
+- CSS
 - Django
 
-### 서버 실행법
+### 😀 서버 실행법
 1. 가상환경 생성 및 실행
 2. Django, python, pillow 설치
 3. 모델 등록
